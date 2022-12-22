@@ -20,3 +20,6 @@ My Docker Image : docker pull yuvarajloga/yuvareat-app
 
 
 <img width="944" alt="image" src="https://user-images.githubusercontent.com/108336310/209203960-39630582-190b-4388-80a5-9cc9efb1cfb9.png">
+
+
+#Scheduler --> API Server -->Kubelet-->Pulling the Image --> Container is Created & Started
